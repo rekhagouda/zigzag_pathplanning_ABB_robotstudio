@@ -102,7 +102,4 @@ MODULE Module1
             ENDIF
         ENDFOR
     ENDPROC
-    PROC new_loop()
-
-    ENDPROC
 ENDMODULE
